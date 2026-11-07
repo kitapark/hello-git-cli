@@ -1,4 +1,8 @@
 hello git
 third - mybranch
 fourth -mybranch
+<<<<<<< HEAD
 some hot fix
+=======
+기능 1추가
+>>>>>>> fb63148 (git commit)
